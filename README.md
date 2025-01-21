@@ -27,19 +27,7 @@ This project predicts future weather states (Cold, Mild, Warm) using daily tempe
 
 ---
 
-## **Installation** ⚙️
-
-Clone this repository and install required dependencies:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/FatimaALzahrani/Predict-weather-states-based-on-daily-temperature-data.git
-    ```
-
-2. Install required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
+## **Required Libraries** ⚙️
 
 The required libraries include:
 - `numpy`
