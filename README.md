@@ -33,7 +33,7 @@ Clone this repository and install required dependencies:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourGitHub/Markov-Weather-Prediction.git
+    git clone https://github.com/FatimaALzahrani/Predict-weather-states-based-on-daily-temperature-data.git
     ```
 
 2. Install required libraries:
